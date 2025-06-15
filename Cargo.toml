@@ -1,0 +1,22 @@
+[package]
+name = "duca"
+version = "0.1.0"
+edition = "2021"
+description = "Search and read Dante's Divine Comedy from your terminal"
+license = "MIT"
+
+[dependencies]
+clap = { version = "4.0", features = ["derive"] }
+regex = "1.10"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+reqwest = { version = "0.11", features = ["blocking"] }
+anyhow = "1.0"
+ratatui = "0.26"
+crossterm = "0.27"
+fuzzy-matcher = "0.3"
+tokio = { version = "1.0", features = ["full"] }
+
+[dev-dependencies]
+assert_cmd = "2.0"
+predicates = "3.0"
