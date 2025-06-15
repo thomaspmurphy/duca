@@ -1,4 +1,4 @@
-# Duca - Dante's Divine Comedy Reader
+# Duca - Divine Comedy Reader
 
 A terminal-based application for reading and searching Dante's Divine Comedy, inspired by the kjv terminal Bible reader. Built with Rust and featuring both CLI and TUI interfaces.
 
