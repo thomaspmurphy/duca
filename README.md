@@ -1,6 +1,8 @@
 # Duca
 
-A terminal application for reading and searching Dante's *Divine Comedy*, inspired by the [kjv Bible reader](https://github.com/layeh/kjv). Built with Rust and featuring both CLI and TUI interfaces.
+<img width="550" alt="Screenshot 2025-06-16 at 10 23 20" src="https://github.com/user-attachments/assets/a1f0e139-dfc8-4146-bc05-549b9fb2c0f8" />
+
+A terminal application for reading and searching Dante's *Divina Commedia*, inspired by the [kjv Bible reader](https://github.com/layeh/kjv). Built with Rust and featuring both CLI and TUI interfaces.
 
 ## Features
 
@@ -138,3 +140,7 @@ duca tui
 # Type "amore" and see results filter in real-time
 # Press Enter on a result to see it highlighted in context
 ```
+
+## Backlog
+
+- [ ] Ability to switch to an English translation.
